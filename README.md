@@ -13,7 +13,7 @@
   * TTS
   
 ### :pencil2: Skills
-* ML/DL: PyTorch, Scikit-Learn, TensorFlow, huggingface
+* ML/DL: PyTorch, Scikit-Learn, TensorFlow, Huggingface
 * Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
 * Language: Python, Java
 * SQL: MongoDB, MySQL, Oracle
@@ -24,7 +24,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **Employment** | 2022.03~ | NLP Researcher, AI 1-1 team | **Tmax** |
 | **External Activity** | 2021.08~2021.12 | boostcamp AI Tech 2th | **NAVER CONNECT** |
-| **External Activity** | 2021.03 ~ 2021.05 | Likelion AI 통합과정 2th | **Likelion** |
+| **External Activity** | 2021.03~2021.05 | Likelion AI 통합과정 2th | **Likelion** |
 
 
 ### :heavy_plus_sign: Activities
