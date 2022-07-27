@@ -4,6 +4,7 @@
 
 **To be the best...!**
 
+*  I’m currently learning NLP & Abstractive Summarization
 
 
 ### :smile: Interests
