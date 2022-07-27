@@ -36,3 +36,4 @@
 | **Competition** | 2022.06.07~2022.06.21 | [2022 AI Online Competition - MRC task](https://aichallenge.or.kr/competition/detail/1) | [Finding answers to questions in the text when given text and questions](https://github.com/QuoQA-NLP/MRC_Baseline) / 2nd out of 26 teams | **NIPA** |
 | **Competition** | 2022.01~2022.02 | [DACON Korean Sentence Classification Competition](https://dacon.io/competitions/official/235875/overview/description) | [NLI task](https://github.com/j961224/Dacon_Korean_NLI) / 18th out of 468 teams | **DACON** |
 | **Competition** | 2022.01~2022.02 | [DACON Crop Disease Diagnosis AI Competition](https://dacon.io/competitions/official/235870/overview/description) | "Development of AI models to diagnose" / 32th out of 334 teams | **LG AI Research** |
+| **Competition** | 2019.09 | 2019 Industrial Math Data Contest | "Development of AI model to image classification" / 2nd | **Ajou Industrial Mathematics Center** |
