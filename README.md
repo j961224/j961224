@@ -13,7 +13,7 @@
   * TTS
   
 ### :pencil2: Skills
-* ML/DL: PyTorch, Scikit-Learn, TensorFlow, Huggingface
+* ML/DL Framework & tool: PyTorch, Scikit-Learn, TensorFlow, Huggingface
 * Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
 * Language: Python, Java
 * SQL: MongoDB, MySQL, Oracle
