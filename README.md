@@ -16,6 +16,7 @@
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow, huggingface
 * Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
 * Language: Python, Java
+* SQL: MongoDB, MySQL, Oracle
 
 ### :turtle: History
 
