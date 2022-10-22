@@ -4,7 +4,7 @@
 
 **To be the best...!**
 
-*  I’m currently learning NLP & Abstractive Summarization
+*  I’m currently learning and working about NLP & Abstractive Summarization & Time Series prediction
 
 
 ### :smile: Interests
