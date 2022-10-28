@@ -33,7 +33,7 @@
 
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2022.08.22~2022.10.23 | [2022 The 4th Korean Emotion Recognition International Challenge(KERC)](https://sites.google.com/view/kerc2022) | Analysis of theatrical dialogue sentiment / 3rd out of 105 teams(silver prize) | **전남대학교 인공지능융합연구소** |
+| **Competition** | 2022.08.22~2022.10.23 | [2022 The 4th Korean Emotion Recognition International Challenge(KERC)](https://sites.google.com/view/kerc2022) | Analysis of theatrical dialogue sentiment / 3rd out of 105 teams(**silver prize**) | **전남대학교 인공지능융합연구소** |
 | **Competition** | 2022.06.07~2022.06.21 | [2022 AI Online Competition - MRC task](https://aichallenge.or.kr/competition/detail/1) | [Finding answers to questions in the text when given text and questions](https://github.com/QuoQA-NLP/MRC_Baseline) / 2nd out of 26 teams | **NIPA** |
 | **Competition** | 2022.01~2022.02 | [DACON Korean Sentence Classification Competition](https://dacon.io/competitions/official/235875/overview/description) | [NLI task](https://github.com/j961224/Dacon_Korean_NLI) / 18th out of 468 teams | **DACON** |
 | **Competition** | 2022.01~2022.02 | [DACON Crop Disease Diagnosis AI Competition](https://dacon.io/competitions/official/235870/overview/description) | "Development of AI models to diagnose" / 32th out of 334 teams | **LG AI Research** |
