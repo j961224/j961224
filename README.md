@@ -23,7 +23,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Employment** | 2022.03~ | NLP Researcher, AI 1-3 team | **Tmax** |
+| **Employment** | 2022.03.15~2023.01.13 | NLP Researcher, AI 1-3 team | **Tmax** |
 | **External Activity** | 2021.08~2021.12 | boostcamp AI Tech 2nd | **NAVER CONNECT** |
 | **External Activity** | 2021.03~2021.05 | Likelion AI 통합과정 2nd | **Likelion** |
 | **Bachelor** |	2015.03~2021.02 |	Double majored in Mathematics, Software |	**Ajou University** |
