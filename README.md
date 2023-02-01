@@ -8,10 +8,7 @@
 
 
 ### :smile: Interests
-  * Open Domain Question Answering
-  * Generation Model
-  * Summarization
-  * TTS
+  * AI - NLP(ODQA, Abstractive Summarization, NLG), TTS
   
 ### :pencil2: Skills
 * ML/DL Framework & tool: PyTorch, Scikit-Learn, TensorFlow, Huggingface
